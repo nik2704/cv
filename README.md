@@ -24,11 +24,11 @@
 ## Образование
 - МГТУ им. Н.Э. Баумана, Информатика и системы управления, бакалавр
 
-# Использование GitHub
+### Использование GitHub
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nik2704&theme=default)
 
-# Языки программирования в репозиториях
+### Языки программирования в репозиториях
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nik2704&theme=default)
 
-# Языки программирования в коммитах
+### Языки программирования в коммитах
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nik2704&theme=default)
