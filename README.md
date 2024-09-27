@@ -24,3 +24,4 @@
 ## Образование
 - МГТУ им. Н.Э. Баумана, Информатика и системы управления, бакалавр
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nik2704&theme=default)
