@@ -42,5 +42,6 @@
 
 ### Календарь коммитов
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nik2704&theme=default)
+[![GitHub commit calendar](https://github-readme-streak-stats.herokuapp.com/?user=nik2704)](https://github.com/nik2704)
+
 
