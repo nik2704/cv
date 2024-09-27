@@ -27,8 +27,16 @@
 ### Использование GitHub
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nik2704&theme=default)
 
-### Языки программирования в репозиториях
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nik2704&theme=default)
+### Языки программирования в репозиториях и в коммитах
 
-### Языки программирования в коммитах
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nik2704&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nik2704&theme=default" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nik2704&theme=default" />
+    </td>
+  </tr>
+</table>
+
